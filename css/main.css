@@ -1,0 +1,17 @@
+body {
+    background-color: #181818;
+    color: #DDD;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar-brand .logo {
+    height: 75px;
+    width: 75px;
+    margin: 0 1em;
+}
+
+.jumbotron {
+    color: #181818;
+    background-color: #DDDDDD;
+    text-align: center;
+}
